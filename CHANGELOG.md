@@ -75,7 +75,7 @@
 
 ### Minor Changes
 
-- [#1143](https://github.com/Schniz/fnm/pull/1143) [`f76a001`](https://github.com/Schniz/fnm/commit/f76a0011f7a613bb818e47acd224b7de48c5a81f) Thanks [@Schniz](https://github.com/Schniz)! - use XDG conventions in MacOS directories by default
+- [#1143](https://github.com/Schniz/fnm/pull/1143) [`f76a001`](https://github.com/Schniz/fnm/commit/f76a0011f7a613bb818e47acd224b7de48c5a81f) Thanks [@Schniz](https://github.com/Schniz)! - use XDG conventions in macOS directories by default
 
 ### Patch Changes
 
@@ -810,7 +810,7 @@
 
 #### Bugfix 🐛
 
-- [#131](https://github.com/Schniz/fnm/pull/131) Deprecates MacOS installation using the script in favor of Homebrew ([@Schniz](https://github.com/Schniz))
+- [#131](https://github.com/Schniz/fnm/pull/131) Deprecates macOS installation using the script in favor of Homebrew ([@Schniz](https://github.com/Schniz))
 
 #### Internal 🛠
 
