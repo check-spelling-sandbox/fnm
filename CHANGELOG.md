@@ -944,7 +944,7 @@
 
 #### Bugfix 🐛
 
-- [#79](https://github.com/Schniz/fnm/pull/79) Guard from more non-existent directories errors ([@Schniz](https://github.com/Schniz))
+- [#79](https://github.com/Schniz/fnm/pull/79) Guard from more nonexistent directories errors ([@Schniz](https://github.com/Schniz))
 
 #### Committers: 1
 
