@@ -876,7 +876,7 @@
 
 - [#101](https://github.com/Schniz/fnm/pull/101) Move from base to core ([@ulrikstrid](https://github.com/ulrikstrid))
 - [#102](https://github.com/Schniz/fnm/pull/102) Implement `realpath` instead of binding to C library ([@Schniz](https://github.com/Schniz))
-- [#100](https://github.com/Schniz/fnm/pull/100) Add Semver to library, an simple non-spec implementation of semver ([@Schniz](https://github.com/Schniz))
+- [#100](https://github.com/Schniz/fnm/pull/100) Add Semver to library, a simple non-spec implementation of semver ([@Schniz](https://github.com/Schniz))
 
 #### Committers: 3
 
