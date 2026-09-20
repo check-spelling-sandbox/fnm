@@ -74,7 +74,7 @@ brew install fnm
 
 Then, [set up your shell for fnm](#shell-setup)
 
-#### Using Winget (Windows)
+#### Using WinGet (Windows)
 
 ```sh
 winget install Schniz.fnm
