@@ -279,7 +279,7 @@
 
 #### Bugfix 🐛
 
-- [#576](https://github.com/Schniz/fnm/pull/576) First fix for slowess in fnm env ([@Schniz](https://github.com/Schniz))
+- [#576](https://github.com/Schniz/fnm/pull/576) First fix for slowness in fnm env ([@Schniz](https://github.com/Schniz))
 
 #### Committers: 1
 
